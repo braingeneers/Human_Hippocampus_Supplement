@@ -1,0 +1,1 @@
+This is the supplemental figures and tables for the manuscript "pathological microcircuits and epileptiform events" published in the Journal of Neurophysiology.
