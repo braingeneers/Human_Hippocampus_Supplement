@@ -1,1 +1,1 @@
-This is the supplemental figures and tables for the manuscript "pathological microcircuits and epileptiform events" published in the Journal of Neurophysiology.
+This is the supplemental figures and tables for the manuscript "Microscale maps of bursting dynamics across human hippocampal slices from epilepsy patients" published in the Journal of Neurophysiology.
